@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Deepika Nediyanchath
 
 ## 🚀 About Me
-I’m a **Senior Software Engineer** with a background in data science, passionate about building scalable solutions and driving innovation in AI and machine learning. With hands-on experience across a broad stack—from Python and Dask to Deep Learning and Computer Vision—I strive to bridge the gap between cutting-edge research and real-world deployment.
+I’m a **Data Scientist**, passionate about building scalable solutions and driving innovation in AI and machine learning. With hands-on experience across a broad stack—from Python and Dask to Deep Learning and Computer Vision—I strive to bridge the gap between cutting-edge research and real-world deployment.
 
 ## 🛠️ Skills & Expertise
 
